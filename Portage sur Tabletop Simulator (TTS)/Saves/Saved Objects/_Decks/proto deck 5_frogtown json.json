@@ -1,0 +1,517 @@
+{
+    "ObjectStates": [
+        {
+            "Name": "DeckCustom",
+            "ContainedObjects": [
+                {
+                    "CardID": 100,
+                    "Name": "Card",
+                    "Nickname": "Daraja Griffin",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 200,
+                    "Name": "Card",
+                    "Nickname": "Oath of Ajani",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 300,
+                    "Name": "Card",
+                    "Nickname": "Ajani, Caller of the Pride",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 400,
+                    "Name": "Card",
+                    "Nickname": "Ajani's Sunstriker",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 500,
+                    "Name": "Card",
+                    "Nickname": "Ajani's Comrade",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 600,
+                    "Name": "Card",
+                    "Nickname": "Ajani's Aid",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 700,
+                    "Name": "Card",
+                    "Nickname": "Ajani's Chosen",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 700,
+                    "Name": "Card",
+                    "Nickname": "Ajani's Chosen",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 800,
+                    "Name": "Card",
+                    "Nickname": "Ajani's Pridemate",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 900,
+                    "Name": "Card",
+                    "Nickname": "Ajani's Welcome",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 1000,
+                    "Name": "Card",
+                    "Nickname": "Maja, Bretagard Protector",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 1100,
+                    "Name": "Card",
+                    "Nickname": "Ajani's Influence",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 1200,
+                    "Name": "Card",
+                    "Nickname": "Ajani's Last Stand",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 1300,
+                    "Name": "Card",
+                    "Nickname": "Ajani's Mantra",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 1400,
+                    "Name": "Card",
+                    "Nickname": "Ajani, Adversary of Tyrants",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 1500,
+                    "Name": "Card",
+                    "Nickname": "Ajani's Presence",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                }
+            ],
+            "DeckIDs": [
+                100,
+                200,
+                300,
+                400,
+                500,
+                600,
+                700,
+                700,
+                800,
+                900,
+                1000,
+                1100,
+                1200,
+                1300,
+                1400,
+                1500
+            ],
+            "CustomDeck": {
+                "1": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/0795a1d6-9caf-472a-a349-fca97bccf8e2.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                },
+                "2": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/2e29077a-5e72-4104-bc9e-25a59a470b24.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                },
+                "3": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/33e44e04-8330-49ca-906c-bb9bf0bc84ce.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                },
+                "4": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/373d6799-e031-4043-8437-ed4880be0de9.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                },
+                "5": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/5bebef1c-2f03-4e0a-b3ba-861546ebf8a6.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                },
+                "6": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/7026c374-0776-403b-86fd-5092677fd5c9.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                },
+                "7": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/8ea009c1-505e-4307-b8f3-2d37e36507a6.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                },
+                "8": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/aab58d83-5930-4d28-a26c-225c7a872216.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                },
+                "9": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/c9045fcb-b633-4c35-8058-6234311551ae.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                },
+                "10": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/cc3707f1-ed9d-412e-a7be-b6d8b554bd6c.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                },
+                "11": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/d38ad178-35a5-44ad-b80a-d746f3e6a45c.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                },
+                "12": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/de422e80-b4d5-414b-a150-71805b371910.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                },
+                "13": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/de4da30d-5c72-4323-b305-7277038b4a05.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                },
+                "14": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/e2eb3bb2-0ba7-4632-9a74-f03b330c1ee3.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                },
+                "15": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/e77e2fd5-5c46-4f6b-ac43-ec23fab57a1a.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                }
+            },
+            "Transform": {
+                "posX": 0,
+                "posY": 1,
+                "posZ": 0,
+                "rotX": 0,
+                "rotY": 180,
+                "rotZ": 180,
+                "scaleX": 1,
+                "scaleY": 1,
+                "scaleZ": 1
+            }
+        },
+        {
+            "Name": "DeckCustom",
+            "ContainedObjects": [
+                {
+                    "CardID": 100,
+                    "Name": "Card",
+                    "Nickname": "Cat",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 200,
+                    "Name": "Card",
+                    "Nickname": "Human Warrior",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 300,
+                    "Name": "Card",
+                    "Nickname": "Avatar",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 400,
+                    "Name": "Card",
+                    "Nickname": "Cat",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                }
+            ],
+            "DeckIDs": [
+                100,
+                200,
+                300,
+                400
+            ],
+            "CustomDeck": {
+                "1": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/f97868f6-a9ce-4ce9-bc3f-b535f3202602.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                },
+                "2": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/06fbcd85-c54e-492e-9e42-5e101cac4255.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                },
+                "3": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/5f3f8f97-0c27-49d6-ae9a-a0fe2a7ce38b.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                },
+                "4": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/d754e09c-efc0-4536-9f2a-6bd7e2f860ab.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                }
+            },
+            "Transform": {
+                "posX": 2.2,
+                "posY": 1,
+                "posZ": 0,
+                "rotX": 0,
+                "rotY": 180,
+                "rotZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "scaleZ": 1
+            }
+        }
+    ]
+}

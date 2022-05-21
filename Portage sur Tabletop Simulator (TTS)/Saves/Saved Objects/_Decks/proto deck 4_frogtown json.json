@@ -1,0 +1,138 @@
+{
+    "ObjectStates": [
+        {
+            "Name": "DeckCustom",
+            "ContainedObjects": [
+                {
+                    "CardID": 100,
+                    "Name": "Card",
+                    "Nickname": "Ajani's Comrade",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 200,
+                    "Name": "Card",
+                    "Nickname": "Ajani's Aid",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 300,
+                    "Name": "Card",
+                    "Nickname": "Ajani's Chosen",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                },
+                {
+                    "CardID": 300,
+                    "Name": "Card",
+                    "Nickname": "Ajani's Chosen",
+                    "Transform": {
+                        "posX": 0,
+                        "posY": 0,
+                        "posZ": 0,
+                        "rotX": 0,
+                        "rotY": 180,
+                        "rotZ": 180,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "scaleZ": 1
+                    }
+                }
+            ],
+            "DeckIDs": [
+                100,
+                200,
+                300,
+                300
+            ],
+            "CustomDeck": {
+                "1": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/5bebef1c-2f03-4e0a-b3ba-861546ebf8a6.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                },
+                "2": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/7026c374-0776-403b-86fd-5092677fd5c9.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                },
+                "3": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/8ea009c1-505e-4307-b8f3-2d37e36507a6.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                }
+            },
+            "Transform": {
+                "posX": 0,
+                "posY": 1,
+                "posZ": 0,
+                "rotX": 0,
+                "rotY": 180,
+                "rotZ": 180,
+                "scaleX": 1,
+                "scaleY": 1,
+                "scaleZ": 1
+            }
+        },
+        {
+            "Name": "Card",
+            "CustomDeck": {
+                "1": {
+                    "FaceURL": "https://www.frogtown.me/Images/V182/f97868f6-a9ce-4ce9-bc3f-b535f3202602.jpg",
+                    "BackURL": "https://www.frogtown.me/CardBack.jpg",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                }
+            },
+            "Transform": {
+                "posX": 2.2,
+                "posY": 1,
+                "posZ": 0,
+                "rotX": 0,
+                "rotY": 180,
+                "rotZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "scaleZ": 1
+            },
+            "CardID": 100,
+            "Nickname": "Cat"
+        }
+    ]
+}
