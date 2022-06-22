@@ -1,0 +1,29 @@
+{
+    "ObjectStates": [
+        {
+            "Name": "Card",
+            "CustomDeck": {
+                "1": {
+                    "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddve0ef-b968b627-623f-4121-99c7-fb15609ad55f.png",
+                    "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddn7o43-80bff03e-4e3b-4688-90c3-6dc2d0434f8b.png",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                }
+            },
+            "Transform": {
+                "posX": 0,
+                "posY": 1,
+                "posZ": 0,
+                "rotX": 0,
+                "rotY": 180,
+                "rotZ": 0,
+                "scaleX": 2,
+                "scaleY": 2,
+                "scaleZ": 2
+            },
+            "CardID": 100,
+            "Nickname": "Orbe-chan, bitchdere yakuza - Personnage : itération, poisson et waifu"
+        }
+    ]
+}
