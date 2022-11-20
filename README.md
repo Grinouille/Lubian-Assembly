@@ -2,7 +2,7 @@
 
 Détails du projet: https://www.artstation.com/artwork/Z5BA2Z
 
-Tout en puisant dans l'univers du Forum Dessiné
+Ce projet puise dans l'univers du Forum Dessiné, avec la permission de leurs auteurices respectif.ve.s
 https://www.forum-dessine.fr/forum/2640/projet-lubiens-lassemblee
 
 Powerpoint de présentation: https://docs.google.com/presentation/d/1H-TL1ZNsAZYh3DduvNI6lyGCWVgpif4Tm85PLYl598o/edit?usp=sharing
