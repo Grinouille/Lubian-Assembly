@@ -1,0 +1,29 @@
+{
+    "ObjectStates": [
+        {
+            "Name": "Card",
+            "CustomDeck": {
+                "1": {
+                    "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddhljn1-67e396d0-22d2-4eb6-a664-22fc763ed9c4.png/v1/fill/w_757,h_1056,strp/flower_power_personnage_by_athaziwald_ddhljn1-pre.png",
+                    "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                }
+            },
+            "Transform": {
+                "posX": 0,
+                "posY": 1,
+                "posZ": 0,
+                "rotX": 0,
+                "rotY": 180,
+                "rotZ": 0,
+                "scaleX": 2,
+                "scaleY": 2,
+                "scaleZ": 2
+            },
+            "CardID": 100,
+            "Nickname": "Flower Power, phéromonisatrice - Personnage : Avatar, plante et héro"
+        }
+    ]
+}
