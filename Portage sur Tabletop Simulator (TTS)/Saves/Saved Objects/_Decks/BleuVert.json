@@ -1,0 +1,208 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "61e51a",
+      "Name": "Deck",
+      "Transform": {
+        "posX": 23.8284931,
+        "posY": 2.00627255,
+        "posZ": -19.41747,
+        "rotX": -0.00271523884,
+        "rotY": 179.998856,
+        "rotZ": 3.33507851E-05,
+        "scaleX": 2.0,
+        "scaleY": 1.0,
+        "scaleZ": 2.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        14700,
+        15100
+      ],
+      "CustomDeck": {
+        "147": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddnq0pv-94d1ef1e-b061-4667-8376-b1cf964f339a.png/v1/fill/w_757,h_1056,strp/chatchat_bizarre_s_topic_plot_twist_by_athaziwald_ddnq0pv-pre.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "151": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/dds8ztu-00597806-d54d-4610-9ce8-332e165b54d7.png/v1/fill/w_757,h_1056,strp/ragnarok_plot_twist_by_athaziwald_dds8ztu-pre.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "GUID": "30b471",
+          "Name": "Card",
+          "Transform": {
+            "posX": 23.828495,
+            "posY": 1.98930788,
+            "posZ": -19.41741,
+            "rotX": -0.00266727922,
+            "rotY": 179.999146,
+            "rotZ": 0.0003455456,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Chatchat Bizarre's Topic - Plot-twist",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 14700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "147": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddnq0pv-94d1ef1e-b061-4667-8376-b1cf964f339a.png/v1/fill/w_757,h_1056,strp/chatchat_bizarre_s_topic_plot_twist_by_athaziwald_ddnq0pv-pre.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "ed74cc",
+          "Name": "Card",
+          "Transform": {
+            "posX": 23.45341,
+            "posY": 2.034153,
+            "posZ": -19.9127064,
+            "rotX": 0.0534711331,
+            "rotY": 179.999908,
+            "rotZ": 0.008280408,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Ragnarok - Plot-twist",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 15100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "151": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/dds8ztu-00597806-d54d-4610-9ce8-332e165b54d7.png/v1/fill/w_757,h_1056,strp/ragnarok_plot_twist_by_athaziwald_dds8ztu-pre.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    }
+  ]
+}

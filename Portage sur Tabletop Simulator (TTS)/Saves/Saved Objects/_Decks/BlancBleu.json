@@ -1,0 +1,616 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "8ed659",
+      "Name": "Deck",
+      "Transform": {
+        "posX": 8.31907749,
+        "posY": 2.03490663,
+        "posZ": -13.9827051,
+        "rotX": -0.00271996949,
+        "rotY": 179.999512,
+        "rotZ": 3.54394142E-05,
+        "scaleX": 2.0,
+        "scaleY": 1.0,
+        "scaleZ": 2.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        4800,
+        7200,
+        8300,
+        8500,
+        9600,
+        9800,
+        10900,
+        11000
+      ],
+      "CustomDeck": {
+        "48": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddfb903-8fe7afb8-2166-4a03-bb90-d1035b59286a.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "72": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddo0lpg-c431d154-1fff-494a-9048-ab0a782435bc.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "83": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddsxahx-89f3cb8a-1a46-4f60-8166-f13a50300f33.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "85": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddr4bll-0853ace4-ecb7-41c2-a6d2-5e6ff2ac211d.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "96": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddw73b8-071d00b9-6ff1-4df4-8281-857b3e836576.png/v1/fill/w_757,h_1056,strp/briser_la_glace_intrigue_by_athaziwald_ddw73b8-pre.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "98": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddyhalx-68fe91cb-f9f9-42c8-82ed-3c235df23c0c.png/v1/fill/w_757,h_1056,strp/etherification_de_caravelle_intrigue_by_athaziwald_ddyhalx-pre.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "109": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/dfidemc-d637f9ff-0034-4bd0-80c0-6731f3f78cc2.png/v1/fill/w_757,h_1056,strp/marguerite_mirbault__felide_ethere_personnage_v2_by_athaziwald_dfidemc-pre.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "110": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/dfidefp-7fd96649-a4b0-46d1-b628-02a8fc9ee175.png/v1/fill/w_757,h_1056,strp/marguerite_mirbault__felide_ethere_personnage_v1_by_athaziwald_dfidefp-pre.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "GUID": "ec48f7",
+          "Name": "Card",
+          "Transform": {
+            "posX": 8.319072,
+            "posY": 1.989061,
+            "posZ": -13.9818764,
+            "rotX": -0.00267435727,
+            "rotY": 179.9998,
+            "rotZ": 0.0002793227,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Stade de Hero High - Décor : arène - {Blanc-Ou-Bleu}",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 4800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "48": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddfb903-8fe7afb8-2166-4a03-bb90-d1035b59286a.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "651bec",
+          "Name": "Card",
+          "Transform": {
+            "posX": 8.20174,
+            "posY": 2.03399587,
+            "posZ": -14.3413725,
+            "rotX": 0.0557049438,
+            "rotY": 179.999344,
+            "rotZ": 0.008234542,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Salle commune des grafyplumes - Décor - {Blanc-Ou-Bleu}",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "72": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddo0lpg-c431d154-1fff-494a-9048-ab0a782435bc.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "d34244",
+          "Name": "Card",
+          "Transform": {
+            "posX": 8.362015,
+            "posY": 2.068038,
+            "posZ": -14.4509745,
+            "rotX": 0.0590177253,
+            "rotY": 179.999924,
+            "rotZ": -0.0035847784,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Palais de justice de Lubicity - Décor - {Blanc-Ou-Bleu}",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "83": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddsxahx-89f3cb8a-1a46-4f60-8166-f13a50300f33.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "f54510",
+          "Name": "Card",
+          "Transform": {
+            "posX": 8.699149,
+            "posY": 2.09287739,
+            "posZ": -14.0908089,
+            "rotX": 0.139994547,
+            "rotY": 180.0,
+            "rotZ": 0.328349769,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Mont St Mirabel, chapelle isolée - Décor - {Blanc-Ou-Bleu}",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "85": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddr4bll-0853ace4-ecb7-41c2-a6d2-5e6ff2ac211d.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "012c1e",
+          "Name": "Card",
+          "Transform": {
+            "posX": 8.262205,
+            "posY": 2.10818529,
+            "posZ": -14.1576281,
+            "rotX": 0.46914494,
+            "rotY": 179.999741,
+            "rotZ": 0.000154584122,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Briser la glace - Intrigue",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "96": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddw73b8-071d00b9-6ff1-4df4-8281-857b3e836576.png/v1/fill/w_757,h_1056,strp/briser_la_glace_intrigue_by_athaziwald_ddw73b8-pre.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "00cb16",
+          "Name": "Card",
+          "Transform": {
+            "posX": 8.372413,
+            "posY": 2.11586118,
+            "posZ": -13.9007235,
+            "rotX": 0.414087385,
+            "rotY": 179.99971,
+            "rotZ": 0.000111666704,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Ethérification de caravelle - Intrigue",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "98": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddyhalx-68fe91cb-f9f9-42c8-82ed-3c235df23c0c.png/v1/fill/w_757,h_1056,strp/etherification_de_caravelle_intrigue_by_athaziwald_ddyhalx-pre.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "0c6b8e",
+          "Name": "Card",
+          "Transform": {
+            "posX": 8.6474905,
+            "posY": 2.10317087,
+            "posZ": -13.9797115,
+            "rotX": -0.000843000365,
+            "rotY": 180.0,
+            "rotZ": 0.0011755228,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Marguerite Mirbault, félidé éthéré - Personnage : OC, chat et esprit",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 10900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "109": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/dfidemc-d637f9ff-0034-4bd0-80c0-6731f3f78cc2.png/v1/fill/w_757,h_1056,strp/marguerite_mirbault__felide_ethere_personnage_v2_by_athaziwald_dfidemc-pre.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "c7955e",
+          "Name": "Card",
+          "Transform": {
+            "posX": 8.830242,
+            "posY": 2.13398552,
+            "posZ": -14.0554752,
+            "rotX": 0.39935264,
+            "rotY": 179.999832,
+            "rotZ": 0.00015441647,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Marguerite Mirbault, félidé éthéré - Personnage : OC, chat et esprit",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 11000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "110": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/dfidefp-7fd96649-a4b0-46d1-b628-02a8fc9ee175.png/v1/fill/w_757,h_1056,strp/marguerite_mirbault__felide_ethere_personnage_v1_by_athaziwald_dfidefp-pre.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    }
+  ]
+}

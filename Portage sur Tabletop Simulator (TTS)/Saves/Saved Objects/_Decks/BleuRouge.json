@@ -1,0 +1,616 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "85ab2a",
+      "Name": "Deck",
+      "Transform": {
+        "posX": 2.92424536,
+        "posY": 2.03490067,
+        "posZ": -13.7992125,
+        "rotX": -0.00271321,
+        "rotY": 179.9999,
+        "rotZ": 3.595274E-05,
+        "scaleX": 2.0,
+        "scaleY": 1.0,
+        "scaleZ": 2.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        3900,
+        6000,
+        9900,
+        11800,
+        11900,
+        13700,
+        13800,
+        13900
+      ],
+      "CustomDeck": {
+        "39": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddhzenp-f9d0beb1-dbfb-4ac0-bd9c-b16047e5c4ad.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "60": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddgr80q-e096ccdd-13fb-45e6-a205-782fe16eacb2.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "99": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddmlsc2-cb02001a-32b8-4d1d-8ad4-afa256b9fd40.png/v1/fill/w_757,h_1056,strp/le_jeu_du_clivage_intrigue_by_athaziwald_ddmlsc2-pre.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "118": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/dduk5us-9728fc96-b99c-411d-b40b-cf2bbdb834bb.png/v1/fill/w_757,h_1056,strp/satan__gentil_demon_personnage_by_athaziwald_dduk5us-pre.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "119": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddp69wd-2d037bd4-76cc-4a6c-82fe-a2a4fd11cf70.png/v1/fill/w_757,h_1056,strp/satelle_litteraire_personnage_by_athaziwald_ddp69wd-pre.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "137": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/dfiddpv-37bfcff5-0574-4e4c-94f6-7470d1716cd9.png/v1/fill/w_757,h_1056,strp/driss_doyourden__peregrine_diegetique_v1_by_athaziwald_dfiddpv-pre.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "138": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/dfiddz2-a91d2491-9079-4bf9-bd4a-bb98f0bbf777.png/v1/fill/w_757,h_1056,strp/driss_doyourden__peregrine_diegetique_v2_by_athaziwald_dfiddz2-pre.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "139": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddw7go8-d46a3bb3-03aa-4646-a44c-220049857b6d.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "GUID": "68bd7c",
+          "Name": "Card",
+          "Transform": {
+            "posX": 2.924236,
+            "posY": 1.989038,
+            "posZ": -13.7981462,
+            "rotX": -0.0026041267,
+            "rotY": 179.999924,
+            "rotZ": 0.000788000063,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Le Kraken, joyau de flotte écossaise - Concept: véhicule",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 3900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "39": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddhzenp-f9d0beb1-dbfb-4ac0-bd9c-b16047e5c4ad.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "6b8128",
+          "Name": "Card",
+          "Transform": {
+            "posX": 3.14621949,
+            "posY": 2.030654,
+            "posZ": -14.2861252,
+            "rotX": 0.0005610015,
+            "rotY": 180.0,
+            "rotZ": 0.00395014742,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Bois des fragrances - Décor - {Rouge-Ou-Bleu}",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 6000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "60": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddgr80q-e096ccdd-13fb-45e6-a205-782fe16eacb2.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "93e7f0",
+          "Name": "Card",
+          "Transform": {
+            "posX": 2.88426232,
+            "posY": 2.09058881,
+            "posZ": -13.9579678,
+            "rotX": 0.499539077,
+            "rotY": 179.999939,
+            "rotZ": 0.0006935209,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Le jeu du clivage - Intrigue",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "99": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddmlsc2-cb02001a-32b8-4d1d-8ad4-afa256b9fd40.png/v1/fill/w_757,h_1056,strp/le_jeu_du_clivage_intrigue_by_athaziwald_ddmlsc2-pre.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "584a97",
+          "Name": "Card",
+          "Transform": {
+            "posX": 3.21264434,
+            "posY": 2.10302472,
+            "posZ": -13.6450949,
+            "rotX": 0.5343772,
+            "rotY": 179.999542,
+            "rotZ": 0.000184969773,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Satan, gentil démon - Personnage : OC et démon",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 11800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "118": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/dduk5us-9728fc96-b99c-411d-b40b-cf2bbdb834bb.png/v1/fill/w_757,h_1056,strp/satan__gentil_demon_personnage_by_athaziwald_dduk5us-pre.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "e1a06c",
+          "Name": "Card",
+          "Transform": {
+            "posX": 3.294897,
+            "posY": 2.08657265,
+            "posZ": -13.8099537,
+            "rotX": 0.0467608944,
+            "rotY": 179.999969,
+            "rotZ": 359.989777,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Satelle littéraire - Personnage : fusion, démon et chiroptère",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 11900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "119": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddp69wd-2d037bd4-76cc-4a6c-82fe-a2a4fd11cf70.png/v1/fill/w_757,h_1056,strp/satelle_litteraire_personnage_by_athaziwald_ddp69wd-pre.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "799ee0",
+          "Name": "Card",
+          "Transform": {
+            "posX": 3.135562,
+            "posY": 2.12740684,
+            "posZ": -13.7308865,
+            "rotX": 0.629543841,
+            "rotY": 179.999863,
+            "rotZ": 0.00111397612,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Driss Doyourden, pérégrine diégétique - Personnage : Chat et chèvre",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 13700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "137": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/dfiddpv-37bfcff5-0574-4e4c-94f6-7470d1716cd9.png/v1/fill/w_757,h_1056,strp/driss_doyourden__peregrine_diegetique_v1_by_athaziwald_dfiddpv-pre.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "22d7ee",
+          "Name": "Card",
+          "Transform": {
+            "posX": 3.01860881,
+            "posY": 2.13382745,
+            "posZ": -13.6961756,
+            "rotX": 0.570228338,
+            "rotY": 179.9997,
+            "rotZ": 0.000144318474,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Driss Doyourden, pérégrine diégétique - Personnage : Chat et chèvre",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 13800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "138": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/dfiddz2-a91d2491-9079-4bf9-bd4a-bb98f0bbf777.png/v1/fill/w_757,h_1056,strp/driss_doyourden__peregrine_diegetique_v2_by_athaziwald_dfiddz2-pre.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "224153",
+          "Name": "Card",
+          "Transform": {
+            "posX": 3.380895,
+            "posY": 2.13552427,
+            "posZ": -13.5269156,
+            "rotX": 0.421955526,
+            "rotY": 179.999863,
+            "rotZ": 0.000150856838,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Faerisc'h, le tonnerre de Brest - Personnage : itération, humain et chevalier",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 13900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "139": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddw7go8-d46a3bb3-03aa-4646-a44c-220049857b6d.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    }
+  ]
+}

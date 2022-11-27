@@ -1,0 +1,1160 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "81f6b5",
+      "Name": "Deck",
+      "Transform": {
+        "posX": 19.4464664,
+        "posY": 2.0730617,
+        "posZ": -6.605476,
+        "rotX": -0.002719158,
+        "rotY": 179.999908,
+        "rotZ": 3.595186E-05,
+        "scaleX": 2.0,
+        "scaleY": 1.0,
+        "scaleZ": 2.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        2700,
+        2800,
+        2900,
+        3000,
+        3100,
+        3300,
+        3600,
+        3800,
+        4500,
+        6200,
+        6400,
+        6500,
+        6600,
+        7400,
+        8400,
+        9200
+      ],
+      "CustomDeck": {
+        "27": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddg4qdx-a388ecde-39b9-4860-91d4-38e74b098307.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "28": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddz6a2o-1ae4b5f2-9ef2-4658-b667-e32c542e4615.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "29": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddqj0hk-4b26fced-9c2d-4617-86ad-2b12d3a88655.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "30": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddvthar-d8de0158-bf90-4c8b-9376-4934e0187624.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "31": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddge9yj-128376e3-7771-4f80-96d4-ebcc198855a0.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "33": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddxxi9e-e7e1d397-8296-4ad3-afed-5f38d8a12e34.png/v1/fill/w_757,h_1056,strp/hache_d_ymir_concept_loot_template_1_by_athaziwald_ddxxi9e-pre.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "36": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddlrscu-1863e5c7-1662-48d9-8319-ce2f880700d6.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "38": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddovomv-770dff66-f234-4b59-b2f2-fd21ccc8e451.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "45": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddpokd5-4a701a33-617a-4cfc-931a-95cad9085d83.png/v1/fill/w_757,h_1056,strp/vaisseau_spatial_exploreur_concept_vehicule_by_athaziwald_ddpokd5-pre.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "62": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddo97w4-95ad4418-1223-4613-b9f3-c42da9f30f61.png/v1/fill/w_757,h_1056,strp/couloir_coupe_gorge_decor_passage_by_athaziwald_ddo97w4-pre.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "64": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddlxj2u-44493db2-8e6c-447a-a594-0da88ce9de70.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "65": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddpc60j-96b4ea96-91bd-4453-911d-738a4a0e28e5.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "66": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/de02xx5-b42ca023-8fea-4c8b-9e7c-e685e0e786db.png/v1/fill/w_757,h_1056,strp/heliport_d_o_c_w_decor_by_athaziwald_de02xx5-pre.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "74": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddo9c6b-a46422c2-565c-47d2-8f90-e2b488cbe970.png/v1/fill/w_757,h_1056,strp/porte_d_entree_de_hawkward_decor_porte_by_athaziwald_ddo9c6b-pre.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "84": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/dducpj6-41657fce-01ba-41ae-9b63-20070039244b.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "92": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddo97w4-95ad4418-1223-4613-b9f3-c42da9f30f61.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "GUID": "b69caf",
+          "Name": "Card",
+          "Transform": {
+            "posX": 19.44604,
+            "posY": 1.98868239,
+            "posZ": -6.60173655,
+            "rotX": -0.00258859457,
+            "rotY": 180.0,
+            "rotZ": 0.0009194665,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Machine à échanger les corps - Concept",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 2700,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "27": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddg4qdx-a388ecde-39b9-4860-91d4-38e74b098307.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "5e1964",
+          "Name": "Card",
+          "Transform": {
+            "posX": 19.3434925,
+            "posY": 2.030311,
+            "posZ": -6.600699,
+            "rotX": -0.000187767364,
+            "rotY": 180.0,
+            "rotZ": 0.0029183696,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Recueil de Gestes - Concept",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 2800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "28": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddz6a2o-1ae4b5f2-9ef2-4658-b667-e32c542e4615.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "1391ad",
+          "Name": "Card",
+          "Transform": {
+            "posX": 19.2512321,
+            "posY": 2.06422234,
+            "posZ": -6.43676138,
+            "rotX": -0.00327026,
+            "rotY": 180.0,
+            "rotZ": -0.00101019815,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Sabliers à points de Hawkward - Concept",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 2900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "29": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddqj0hk-4b26fced-9c2d-4617-86ad-2b12d3a88655.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "74dd54",
+          "Name": "Card",
+          "Transform": {
+            "posX": 19.18823,
+            "posY": 2.07385683,
+            "posZ": -6.457785,
+            "rotX": -0.00321778958,
+            "rotY": 180.0,
+            "rotZ": -0.00104408327,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Tourelle automatique de défense - Concept",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 3000,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "30": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddvthar-d8de0158-bf90-4c8b-9376-4934e0187624.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "e8b95d",
+          "Name": "Card",
+          "Transform": {
+            "posX": 18.9154816,
+            "posY": 2.107661,
+            "posZ": -7.15307665,
+            "rotX": 359.547729,
+            "rotY": 180.000732,
+            "rotZ": 0.000161116972,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Excalibur - Concept: loot",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 3100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "31": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddge9yj-128376e3-7771-4f80-96d4-ebcc198855a0.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "0e8caa",
+          "Name": "Card",
+          "Transform": {
+            "posX": 19.1151333,
+            "posY": 2.0931735,
+            "posZ": -6.29936266,
+            "rotX": -0.00166994822,
+            "rotY": 180.0,
+            "rotZ": 0.00130260026,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Hagalaz, Hache d'Ymir - Concept: loot",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 3300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "33": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddxxi9e-e7e1d397-8296-4ad3-afed-5f38d8a12e34.png/v1/fill/w_757,h_1056,strp/hache_d_ymir_concept_loot_template_1_by_athaziwald_ddxxi9e-pre.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "55b9f7",
+          "Name": "Card",
+          "Transform": {
+            "posX": 18.7120647,
+            "posY": 2.10280252,
+            "posZ": -6.403997,
+            "rotX": -0.0017503252,
+            "rotY": 180.0,
+            "rotZ": 0.0008234337,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Vénérables babouchoix - Concept: loot",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 3600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "36": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddlrscu-1863e5c7-1662-48d9-8319-ce2f880700d6.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "d3e276",
+          "Name": "Card",
+          "Transform": {
+            "posX": 18.9051456,
+            "posY": 2.11244678,
+            "posZ": -6.850681,
+            "rotX": -0.00338511216,
+            "rotY": 180.0,
+            "rotZ": 0.001035039,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "La Ladybig, modulable tout-terrain - Concept: véhicule",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 3800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "38": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddovomv-770dff66-f234-4b59-b2f2-fd21ccc8e451.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "ac49d2",
+          "Name": "Card",
+          "Transform": {
+            "posX": 19.15041,
+            "posY": 2.12206721,
+            "posZ": -7.43849468,
+            "rotX": -0.0030773934,
+            "rotY": 179.998688,
+            "rotZ": 0.00150295964,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Vaisseau mère « ATLAS » - Concept: véhicule",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 4500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "45": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddpokd5-4a701a33-617a-4cfc-931a-95cad9085d83.png/v1/fill/w_757,h_1056,strp/vaisseau_spatial_exploreur_concept_vehicule_by_athaziwald_ddpokd5-pre.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "7635a4",
+          "Name": "Card",
+          "Transform": {
+            "posX": 19.6139488,
+            "posY": 2.13165331,
+            "posZ": -6.82568645,
+            "rotX": -0.00275068474,
+            "rotY": 180.0,
+            "rotZ": -0.0004942456,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Couloir coupe-gorge - Décor : passage",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 6200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "62": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddo97w4-95ad4418-1223-4613-b9f3-c42da9f30f61.png/v1/fill/w_757,h_1056,strp/couloir_coupe_gorge_decor_passage_by_athaziwald_ddo97w4-pre.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "f023e7",
+          "Name": "Card",
+          "Transform": {
+            "posX": 19.43744,
+            "posY": 2.14128661,
+            "posZ": -5.97877932,
+            "rotX": -0.001833423,
+            "rotY": 179.999786,
+            "rotZ": 0.00157332933,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Cour de l'école de magie Hawkward - Décor - Inco",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 6400,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "64": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddlxj2u-44493db2-8e6c-447a-a594-0da88ce9de70.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "3394bf",
+          "Name": "Card",
+          "Transform": {
+            "posX": 19.9903717,
+            "posY": 2.15090919,
+            "posZ": -5.68734837,
+            "rotX": -0.002313396,
+            "rotY": 180.0,
+            "rotZ": 0.00101631181,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Fond blanc - Décor : Piste d'atterrissage - Inco",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 6500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "65": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddpc60j-96b4ea96-91bd-4453-911d-738a4a0e28e5.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "b53378",
+          "Name": "Card",
+          "Transform": {
+            "posX": 20.17212,
+            "posY": 2.16052055,
+            "posZ": -5.55457354,
+            "rotX": -0.00252661342,
+            "rotY": 180.0,
+            "rotZ": 0.00124138268,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Héliport d'O.C.W. - Décor : Piste d'atterrissage - Inco",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 6600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "66": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/de02xx5-b42ca023-8fea-4c8b-9e7c-e685e0e786db.png/v1/fill/w_757,h_1056,strp/heliport_d_o_c_w_decor_by_athaziwald_de02xx5-pre.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "7b3387",
+          "Name": "Card",
+          "Transform": {
+            "posX": 18.864212,
+            "posY": 2.170111,
+            "posZ": -5.862138,
+            "rotX": -0.003933736,
+            "rotY": 180.0,
+            "rotZ": -0.00113400782,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Porte d'entrée de Hawkward - Décor : porte",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7400,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "74": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddo9c6b-a46422c2-565c-47d2-8f90-e2b488cbe970.png/v1/fill/w_757,h_1056,strp/porte_d_entree_de_hawkward_decor_porte_by_athaziwald_ddo9c6b-pre.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "a5a843",
+          "Name": "Card",
+          "Transform": {
+            "posX": 19.57033,
+            "posY": 2.18263721,
+            "posZ": -6.51559973,
+            "rotX": 0.0491675623,
+            "rotY": 179.999924,
+            "rotZ": 0.0140561713,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Tour des commentateurs - Décor - Inco",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8400,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "84": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/dducpj6-41657fce-01ba-41ae-9b63-20070039244b.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "b54e57",
+          "Name": "Card",
+          "Transform": {
+            "posX": 19.6026821,
+            "posY": 2.19230914,
+            "posZ": -6.35261631,
+            "rotX": 0.0501198731,
+            "rotY": 179.999832,
+            "rotZ": 0.0134014338,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Couloir coupe-gorge - Décor Inco",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 9200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "92": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddo97w4-95ad4418-1223-4613-b9f3-c42da9f30f61.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    }
+  ]
+}

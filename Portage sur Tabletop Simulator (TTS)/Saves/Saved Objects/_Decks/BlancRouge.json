@@ -1,0 +1,276 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "36ed8a",
+      "Name": "Deck",
+      "Transform": {
+        "posX": 18.6782951,
+        "posY": 2.01081562,
+        "posZ": -13.6690674,
+        "rotX": -0.00272027357,
+        "rotY": 179.998764,
+        "rotZ": 3.61640632E-05,
+        "scaleX": 2.0,
+        "scaleY": 1.0,
+        "scaleZ": 2.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        7100,
+        12900,
+        14900
+      ],
+      "CustomDeck": {
+        "71": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddnvqei-6877af1a-7f29-43f0-ba41-96d0c06f200d.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "129": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddzvwsi-4f16c188-1306-4ce0-82a4-e51a18548de2.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        },
+        "149": {
+          "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddtkz0r-2c144460-2427-4952-8a0b-e5a668024569.png/v1/fill/w_757,h_1056,strp/la_justice_regne_par_le_dessus_plot_twist_by_athaziwald_ddtkz0r-pre.png",
+          "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "GUID": "b9ec50",
+          "Name": "Card",
+          "Transform": {
+            "posX": 18.6782722,
+            "posY": 1.98904848,
+            "posZ": -13.6687536,
+            "rotX": -0.002721005,
+            "rotY": 179.999237,
+            "rotZ": 2.750995E-05,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Salle commune des canichors- Décor - {Blanc-Ou-Rouge}",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 7100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "71": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddnvqei-6877af1a-7f29-43f0-ba41-96d0c06f200d.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "3e2919",
+          "Name": "Card",
+          "Transform": {
+            "posX": 18.19569,
+            "posY": 2.06341362,
+            "posZ": -13.9670687,
+            "rotX": 0.6527666,
+            "rotY": 180.000885,
+            "rotZ": 0.00257367874,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "Bryan Carter, fléau des aliens - Personnage : OC, humain et mercenaire",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 12900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "129": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddzvwsi-4f16c188-1306-4ce0-82a4-e51a18548de2.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "31fe29",
+          "Name": "Card",
+          "Transform": {
+            "posX": 19.5471172,
+            "posY": 2.066959,
+            "posZ": -13.0615568,
+            "rotX": 0.0428031236,
+            "rotY": 179.999954,
+            "rotZ": 0.0218548775,
+            "scaleX": 2.0,
+            "scaleY": 1.0,
+            "scaleZ": 2.0
+          },
+          "Nickname": "La justice règne par le dessus - Plot-twist",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 14900,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "149": {
+              "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/ddtkz0r-2c144460-2427-4952-8a0b-e5a668024569.png/v1/fill/w_757,h_1056,strp/la_justice_regne_par_le_dessus_plot_twist_by_athaziwald_ddtkz0r-pre.png",
+              "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-103c76b3-10da-4e02-ab73-23a8a9fd67ac.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    }
+  ]
+}
