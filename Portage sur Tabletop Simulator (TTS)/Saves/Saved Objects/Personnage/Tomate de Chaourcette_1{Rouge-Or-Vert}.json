@@ -1,0 +1,29 @@
+{
+    "ObjectStates": [
+        {
+            "Name": "Card",
+            "CustomDeck": {
+                "1": {
+                    "FaceURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/dfj5pzu-a2ace2d6-0c33-4741-b57f-27e1eca7e3d2.png/v1/fill/w_760,h_1060,strp.png",
+                    "BackURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/57b560f3-b32b-4851-8521-c4dc4e42caf2/df5fejn-d25a14c5-b872-4e87-8e61-d4c88c43c9bb.png/v1/fill/w_380,h_530,strp.png",
+                    "NumHeight": 1,
+                    "NumWidth": 1,
+                    "BackIsHidden": true
+                }
+            },
+            "Transform": {
+                "posX": 0,
+                "posY": 1,
+                "posZ": 0,
+                "rotX": 0,
+                "rotY": 180,
+                "rotZ": 0,
+                "scaleX": 2,
+                "scaleY": 2,
+                "scaleZ": 2
+            },
+            "CardID": 100,
+            "Nickname": "Tomate de Chaourcette - Personnage : OC et fruit"
+        }
+    ]
+}
