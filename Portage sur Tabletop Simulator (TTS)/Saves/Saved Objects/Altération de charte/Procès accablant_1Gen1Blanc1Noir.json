@@ -23,7 +23,9 @@
                 "scaleZ": 2
             },
             "CardID": 100,
-            "Nickname": "Procès accablant - Altération de charte légendaire"
+            "Nickname": "Procès accablant - Altération de charte légendaire",
+            "Description": "3Gen1Blanc1Noir : Portez disparu un personnage ciblé. Puis, s'il y a au moins trois cartes portées disparues par le Procès accablant, transformez-le. | flavor text: « Grinny, vous êtes accusé de meurtre avec préméditation. L'accusation et la défense sont-elles prêtes ? » — Juge Zarnstein |",
+            "OnClick": "TransformScript_Procès_accablant"
         }
     ]
 }
